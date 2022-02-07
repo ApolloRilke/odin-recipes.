@@ -1,12 +1,18 @@
 @import url("https://fonts.googleapis.com/css?family=Abril Fatface");
 
-
 img {
     width: 500pxl;
     height: auto;
 }
 
-
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    width: 1000px;
+    height: auto;
+  }
 
 * {
     background-color: #0178B2;
