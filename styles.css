@@ -1,0 +1,32 @@
+img {
+    width: 500pxl;
+    height: auto;
+}
+
+* {
+    background-color: #0178B2;
+}
+
+h1,
+h2,
+h3 {
+    color: #E5DC40;
+    font-weight: 900;
+    text-shadow: 3px 3px 1px #B40E29;
+    /*  background-color: #B40E29; */
+}
+
+h1 {
+    font-size: 50px;
+}
+
+ul,
+ol,
+p,
+a {
+    color:aliceblue;
+}
+
+.center {
+   align-content: center;
+}
